@@ -1,9 +1,3 @@
-## 후후
-HIHI
-o;o;
-
-
-
 # OpenCV: Open Source Computer Vision Library
 
 ## Resources
